@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import '../global_config.dart';
 import '../home/search_page.dart';
-import '../global_config.dart';
 
 class MyPage extends StatefulWidget {
 
