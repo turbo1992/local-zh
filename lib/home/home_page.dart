@@ -5,7 +5,6 @@ import 'recommend.dart';
 import 'hot.dart';
 import 'search_page.dart';
 import 'ask_page.dart';
-import '../global_config.dart';
 
 class HomePage extends StatefulWidget {
 
