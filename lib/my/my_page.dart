@@ -74,7 +74,7 @@ class _MyPageState extends State<MyPage> {
                     ),
                     title: new Container(
                       margin: const EdgeInsets.only(bottom: 2.0),
-                      child: new Text("learner"),
+                      child: new Text("Turbo"),
                     ),
                     subtitle: new Container(
                       margin: const EdgeInsets.only(top: 2.0),
